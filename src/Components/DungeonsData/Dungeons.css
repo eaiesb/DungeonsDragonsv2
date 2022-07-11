@@ -1,0 +1,29 @@
+.header {
+    text-align: center;
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.link {
+    display: flex;
+    text-align: right;
+    color: red;
+    margin-left: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large !important;
+    font-weight: 100;
+    align-content: right;
+}
+
+.css-nf6ap-MuiTypography-root-MuiLink-root {
+    font-size: x-large;
+    text-align: right;
+    align-items: flex-end;
+
+}
+
+
+.css-46bh2p-MuiCardContent-root {
+    padding: 2px !important;
+}
